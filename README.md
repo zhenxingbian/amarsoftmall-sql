@@ -1,0 +1,2 @@
+# amarsoftmall-sql
+这是一个存储涉及amarsoftmall项目数据库脚本的仓库
